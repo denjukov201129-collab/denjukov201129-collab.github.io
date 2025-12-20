@@ -491,3 +491,67 @@ footer{
    font-weight: 400;
    font-style: normal;
 }
+.zvd>*{
+    position: absolute;
+    height: 50px;
+}
+.zvd1{
+    left: 840px;
+    bottom: 300px;
+}
+.zvd2{
+    left: 890px;
+    bottom: 300px;
+}
+.zvd3{
+    left: 940px;
+    bottom: 300px;
+}
+.zvd4{
+    left: 990px;
+    bottom: 300px;
+}
+.zvd5{
+    left: 1040px;
+    bottom: 300px;
+}
+.zvd6{
+    left: 840px;
+    bottom: 170px;
+}
+.zvd7{
+    left: 890px;
+    bottom: 170px;
+}
+.zvd8{
+    left: 940px;
+    bottom: 170px;
+}
+.zvd9{
+    left: 990px;
+    bottom: 170px;
+}
+.zvd10{
+    left: 1040px;
+    bottom: 170px;
+}
+.zvd11{
+    left: 840px;
+    bottom: 40px;
+}
+.zvd12{
+    left: 890px;
+    bottom: 40px;
+}
+.zvd13{
+    left: 940px;
+    bottom: 40px;
+}
+.zvd14{
+    left: 990px;
+    bottom: 40px;
+}
+.zvd15{
+    left: 1040px;
+    bottom: 40px;
+}
