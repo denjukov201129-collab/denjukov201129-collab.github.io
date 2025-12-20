@@ -493,7 +493,7 @@ footer{
 }
 .zvd>*{
     position: absolute;
-    height: 50px;
+    height: 20px;
 }
 .zvd1{
     left: 840px;
@@ -555,3 +555,4 @@ footer{
     left: 1040px;
     bottom: 40px;
 }
+
