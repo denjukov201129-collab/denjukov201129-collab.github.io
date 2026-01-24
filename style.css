@@ -565,6 +565,10 @@ a:hover{
 .zag11{
     animation: anim1 5s infinite;
 }
+img{
+    border: black 10px dotted;
+    animation: anim2 5s infinite;
+}
 @keyframes anim1 {
     0%{
         color:black
@@ -582,6 +586,42 @@ a:hover{
         color:black
     }
 }
+@keyframes anim2 {
+    0%{
+        border-color:yellow
+    }
+    25%{
+        border-color: red
+    }
+    50%{
+        border-color: blueviolet
+    }
+    75%{
+        border-color:darkorange
+    }
+    100%{
+        border-color:green
+    }
+}
+.zvd>*{
+   border: none;
+}
+.skidki1a>*:hover{
+    animation: anim3 2s infinite backwards;
+}
+@keyframes anim3 {
+    0%{
+        rotate: 0deg;
+    }
+    50%{
+        rotate: 180deg;
+    }
+    100%{
+        rotate: 360deg;
+    }
+    
+}
+
 
 
 
